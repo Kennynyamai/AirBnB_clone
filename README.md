@@ -278,5 +278,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 
-zeddy cherotich <cheroozeddy@gmail.com>
-Oruche Ugochukwu <oruchechuks@gmail.com>
+Caleb Kering <keringcaleb3@gmail.com>
+Kennedy Mwendwa <kennynyamai73@gmail.com> 
